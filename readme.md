@@ -1,6 +1,6 @@
 # Project 1  
 
-## Required libraries
+## Required librariddes
 1. numpy
 2. random
 3. collections
