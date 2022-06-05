@@ -143,8 +143,8 @@ while True:
             break
 
 #Function that generates the path from the initial state to the goal state and stores it in "nodePath.txt" file. 
-#It also creates a "Nodes.txt" file which contains all the visited nodes and "NodeInfo.txt" file which contains Index of a node
-#and its parent's node
+#It also creates a "Nodes.txt" file which contains all the visited nodes and "NodeInfo.txt" file which contains Index 
+# of a node and its parent's node
 def generate_path(node_list):
     A = [element[0] for element in node_list]
     B = [element[1] for element in node_list]
