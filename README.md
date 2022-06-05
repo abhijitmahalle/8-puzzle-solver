@@ -1,6 +1,8 @@
 # 8 puzzle solver using Breadth First Search (BFS) 
 This repository contains code to solve a 8-puzzle problem using Breadth First Search (BFS). 
 
+<img src="https://github.com/AbhijitMahalle/8-puzzle-solver/blob/master/gif/8_puzzle_solver.gif" width="300" height="300"/>  
+
 ## Required librariddes
 1. NumPy
 2. random
@@ -11,8 +13,6 @@ This repository contains code to solve a 8-puzzle problem using Breadth First Se
 ```
 python 8_puzzle_solver.py
 ```
-<img src="https://github.com/AbhijitMahalle/8-puzzle-solver/blob/master/gif/8_puzzle_solver.gif" width="300" height="300"/>
-
 ## Output
 Three output textfile are generated:  
 1. nodePath.txt contains states with elements in the column-wise format from the start state to the goal state.
