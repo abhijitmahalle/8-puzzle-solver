@@ -1,4 +1,4 @@
-# 8 puzzle solver using Breadth First Search (BFS) 
+# 8-puzzle solver using Breadth First Search (BFS) 
 This repository contains code to solve a 8-puzzle problem using Breadth First Search (BFS). 
 
 <img src="https://github.com/AbhijitMahalle/8-puzzle-solver/blob/master/gif/8_puzzle_solver.gif" width="300" height="300"/>  
