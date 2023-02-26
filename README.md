@@ -3,13 +3,16 @@ This repository contains code to solve a 8-puzzle problem using Breadth First Se
 
 <img src="https://github.com/AbhijitMahalle/8-puzzle-solver/blob/master/gif/8_puzzle_solver.gif" width="300" height="300"/>  
 
-## Required librariddes
-1. NumPy
-2. random
-3. collections
-4. copy
+## Requirement:
+  - Python 2.0 or above
 
-## Instructions to run the code
+## Dependencies:
+  - NumPy
+  - random
+  - collections 
+  - copy
+
+## Instruction to run the code:
 ```
 python 8_puzzle_solver.py
 ```
